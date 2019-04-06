@@ -1,0 +1,1 @@
+g++ main.cpp ../libpool/*.cpp -I../libpool/ -pthread -o ../output.exe
